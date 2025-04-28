@@ -1,7 +1,7 @@
 
 name: Bonjour Action
 description: Une action simple pour dire bonjour
-author: Laraqui
+author: chaimae
 
 inputs:
   nom:
